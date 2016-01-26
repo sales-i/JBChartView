@@ -15,5 +15,7 @@ FOUNDATION_EXPORT double JBChartViewFrameworkVersionNumber;
 FOUNDATION_EXPORT const unsigned char JBChartViewFrameworkVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <JBChartViewFramework/PublicHeader.h>
-
+#import <JBChartViewFramework/JBChartView.h>
+#import <JBChartViewFramework/JBBarChartView.h>
+#import <JBChartViewFramework/JBLineChartView.h>
 

@@ -9,6 +9,12 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
+//! Project version number for MRProgressDynamicFramework.
+FOUNDATION_EXPORT double JBChartViewVersionNumber;
+
+//! Project version string for MRProgressDynamicFramework.
+FOUNDATION_EXPORT const unsigned char JBChartViewVersionString[];
+
 extern CGFloat const kJBChartViewDefaultAnimationDuration;
 
 @class JBChartView;
